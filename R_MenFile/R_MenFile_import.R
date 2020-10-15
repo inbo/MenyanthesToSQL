@@ -5,9 +5,11 @@ install.packages("DBI")
 library(R.matlab)
 library(DBI)
 library(jsonlite)
+library(rprojroot)
 
-MenFIlePath <- c("C:/Users/jo_admin/Documents/GitHub/db-scripts-en-queries/Databases/D0146_ModelResultaten/TestImports/R_MenFile/Watina_voorbeeld_werkbaar.men")
-
+# MenFIlePath <- c("C:/Users/jo_admin/Documents/GitHub/db-scripts-en-queries/Databases/D0146_ModelResultaten/TestImports/R_MenFile/Watina_voorbeeld_werkbaar.men")
+gitroot <- find_root(is_git_root)
+MenFIlePath <- file.path(gitroot,"R_MenFile", "Watina_voorbeeld_werkbaar.men")
 
 ############################################################
 ExportToSQL <- function(Conn, ListObject, FullPath, PartName){
