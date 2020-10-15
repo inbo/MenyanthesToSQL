@@ -1,0 +1,25 @@
+{
+    "id": "4934E9A6",
+    "path": "~/GitHub/db-scripts-en-queries/Databases/D0146_ModelResultaten/TestImports/R_MenFile/R_MenFile_import.R",
+    "project_path": "R_MenFile_import.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600940671489.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "77,53",
+        "scrollLine": "64"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1602755317,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602755317075,
+    "read_only": false,
+    "read_only_alternatives": []
+}

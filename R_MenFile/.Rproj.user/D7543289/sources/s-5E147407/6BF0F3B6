@@ -1,0 +1,25 @@
+{
+    "id": "6BF0F3B6",
+    "path": "~/GitHub/db-scripts-en-queries/Databases/D0146_ModelResultaten/TestImports/R_MenFile/R_MenFile_Parse.R",
+    "project_path": "R_MenFile_Parse.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600342459413.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "13,15",
+        "scrollLine": "36"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600940761,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600940761765,
+    "read_only": false,
+    "read_only_alternatives": []
+}
